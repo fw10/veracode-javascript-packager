@@ -6,6 +6,8 @@
 
 # Veracode JavaScript Packager ⚡
 
+# DEPRECATED, PLEASE USE THE OFFICIAL PACKAGER AT: https://docs.veracode.com/r/About_auto_packaging
+
 Please note that this is **not an official Veracode project**, not supported by Veracode in any form, and comes with no warranty whatsoever. It is simply a little pet project of mine trying to make the life of Veracode's `JavaScript`/`TypeScript` customers a bit easier. Use at your own risk.
 
 The `Veracode JavaScript Packager` is a tool that packages your `JavaScript`/`TypeScript` applications (i.e., `Node.js`, `Angular`, `React`, or `Vue`) for `Veracode Static Analysis`. The output of the tool is a `zip` that you then need to upload to Veracode. The idea is to avoid common mistakes that I, in my role as a Veracode Application Security Consultant, commonly see in customer uploads.
